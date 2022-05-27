@@ -11686,3 +11686,8 @@ body {
 .footer {
   padding: 5rem 0;
 }
+
+.padding-fix {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
